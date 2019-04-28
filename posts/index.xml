@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Martin Krumsdorf, Lizenz: CC BY-SA 4.0 DE</copyright>
+    <lastBuildDate>Sun, 28 Apr 2019 15:08:13 +0200</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hallo Blog</title>
+      <link>/posts/hello-blog/</link>
+      <pubDate>Sun, 28 Apr 2019 15:08:13 +0200</pubDate>
+      
+      <guid>/posts/hello-blog/</guid>
+      <description>Mir fallen Dinge ein. Manchmal schreibe ich sie auf. Ab und zu veröffentliche ich sie. Auch hier.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>Martin Krumsdorf, Lizenz: CC BY-SA 4.0 DE</copyright>
+    <lastBuildDate>Sun, 28 Apr 2019 15:08:13 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hallo Blog</title>
+      <link>/posts/hello-blog/</link>
+      <pubDate>Sun, 28 Apr 2019 15:08:13 +0200</pubDate>
+      
+      <guid>/posts/hello-blog/</guid>
+      <description>Mir fallen Dinge ein. Manchmal schreibe ich sie auf. Ab und zu veröffentliche ich sie. Auch hier.</description>
+    </item>
+    
+    <item>
+      <title>Über</title>
+      <link>/about/</link>
+      <pubDate>Sun, 28 Apr 2019 15:08:13 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Martin Krumsdorf  Software Engineer, Rotkreuz-Evangelist und Podcaster krumsdorf.org - Erste Anlaufstelle kirubi.de - Kirubi Druckerzeugnisse Postkarten mit einer Zeichnung von Martin Luther King jr. 7gutegruende.de - Der Podcast von und für Rotkreuzlerinnen und Rotkreuzler und für alle, die mehr über diese spannende Organisation erfahren wollen. Blog - Lesen oder Lassen Kontaktmöglichkeiten  Twitter Github   </description>
+    </item>
+    
+  </channel>
+</rss>
