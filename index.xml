@@ -6,7 +6,7 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <copyright>Martin Krumsdorf, Lizenz: CC BY-SA 4.0 DE</copyright>
+    <copyright>Martin Krumsdorf, CC BY-SA 4.0 DE</copyright>
     <lastBuildDate>Sun, 28 Apr 2019 15:08:13 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
       <pubDate>Sun, 28 Apr 2019 15:08:13 +0200</pubDate>
       
       <guid>/about/</guid>
-      <description> Martin Krumsdorf  Software Engineer, Rotkreuz-Evangelist und Podcaster krumsdorf.org - Erste Anlaufstelle kirubi.de - Kirubi Druckerzeugnisse Postkarten mit einer Zeichnung von Martin Luther King jr. 7gutegruende.de - Der Podcast von und für Rotkreuzlerinnen und Rotkreuzler und für alle, die mehr über diese spannende Organisation erfahren wollen. Blog - Lesen oder Lassen Kontaktmöglichkeiten  Twitter Github   </description>
+      <description> Martin Krumsdorf  Software Engineer, Rotkreuz-Evangelist und Podcaster krumsdorf.org - Erste Anlaufstelle kirubi.de - Kirubi Druckerzeugnisse Postkarten mit einer Zeichnung von Martin Luther King jr. 7gutegruende.de - Der Podcast von und für Rotkreuzlerinnen und Rotkreuzler und für alle, die mehr über diese spannende Organisation erfahren wollen. Blog - Lesen oder Lassen Kontaktmöglichkeiten  Twitter Github    Credits  Webseiten-Generator Hugo: https://gohugo.io/ Theme: https://themes.gohugo.io/hugo-theme-m10c/  </description>
     </item>
     
   </channel>
