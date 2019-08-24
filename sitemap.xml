@@ -4,19 +4,22 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-07-24T23:30:33+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-24T21:08:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/audio-clips-im-netz-teilen/</loc>
+    <lastmod>2019-08-24T21:08:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2019-08-24T21:08:56+02:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/audio-pr/</loc>
     <lastmod>2019-07-24T23:30:33+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-07-24T23:30:33+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -31,12 +34,10 @@
   
   <url>
     <loc>/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
